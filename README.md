@@ -40,6 +40,7 @@ hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow
   <code><img width="15%" height="75px" src="https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg"></code>
   <code><img width="15%" height="80px" src="https://www.freelogovectors.net/svg05/heroku-logo.svg"></code>
   <code><img width="15%" height="80px" src="https://www.svgrepo.com/show/354512/vercel.svg"></code>
+  <code><img width="15%" height="80px" src="https://www.actualidadiphone.com/wp-content/uploads/2018/03/Trello-830x400.jpg"></code>
   <br />
 </p>
 &nbsp;
