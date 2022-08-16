@@ -1,9 +1,9 @@
 ![](https://www.wallpapertip.com/wmimgs/54-545843_graphic-design.jpg)
 <h1 align="center">
-Hi, I'm Enzo
+Hi, I'm Enzo 👋🏻
 </h1>
 <h2>
-Full Stack Developer
+Full Stack Developer 
 </h2>
 <h4>
 hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow. A person who likes to know and learn new things constantly, I am always looking for new challenges where I can grow personally and professionally.
@@ -23,6 +23,7 @@ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, Mer
 <code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20detail.png"></code>
 <code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20donation.png"></code>
 </p>
+&nbsp;&nbsp;
 <h3> 💻 Languages and Tools: </h3>
 
 <p>
@@ -47,14 +48,14 @@ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, Mer
   <code><img width="15%" height="80px" src="https://www.actualidadiphone.com/wp-content/uploads/2018/03/Trello-830x400.jpg"></code>
   <br />
 </p>
-&nbsp;
+&nbsp;&nbsp;
 <h3>:paperclip: How to reach me: </h3>
 <span >
 <a href="https://www.linkedin.com/in/enzogsanchezdeveloper/" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"> &nbsp;
 <a href="mailto:enzosanchez771@gmail.com" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
  <a href="https://wa.me/+5493855049632" ><img width="7%" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png">
 </span>
-&nbsp;
+&nbsp;&nbsp;
   <p>
      <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=enzosanchezz&label=Profile%20Views&color=6&icon=3&pretty=true" />
