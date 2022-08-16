@@ -34,6 +34,12 @@ hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow
   <code><img width="15%" height="75px" src="https://manticore-labs.com/wp-content/uploads/2019/02/express.png"></code>
   <code><img width="15%" height="75px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"></code>
   <code><img width="15%" height="80px" src="https://icons-for-free.com/iconfiles/png/512/sequelize+original+wordmark-1324760571504800502.png"></code>
+  <code><img width="15%" height="80px" src="https://i0.wp.com/community.nodemailer.com/wp-content/uploads/2015/10/n2-2.png?fit=422%2C360&ssl=1"></code>
+  <br />
+  <code><img width="15%" height="75px" src="https://100seguro.com.ar/wp-content/uploads/2020/07/auth0-logo-whitebg.png"></code>
+  <code><img width="15%" height="75px" src="https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg"></code>
+  <code><img width="15%" height="80px" src="https://www.freelogovectors.net/svg05/heroku-logo.svg"></code>
+  <code><img width="15%" height="80px" src="https://www.svgrepo.com/show/354512/vercel.svg"></code>
   <br />
 </p>
 &nbsp;
@@ -43,6 +49,7 @@ hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow
 <a href="mailto:enzosanchez771@gmail.com" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
  <a href="https://wa.me/+5493855049632" ><img width="7%" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png">
 </span>
+&nbsp;
   <p>
      <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=enzosanchezz&label=Profile%20Views&color=6&icon=3&pretty=true" />
