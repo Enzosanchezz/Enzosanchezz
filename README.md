@@ -8,6 +8,10 @@ Full Stack Developer
 <h4>
 hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow. A person who likes to know and learn new things constantly, I am always looking for new challenges where I can grow personally and professionally.
 </h4>
+<h4>
+Participation in an agile development team with one-week sprints presenting to a Product Owner the advances in the development of a pet adoption app, whose objective is to facilitate communication between users who wish to both give up and adopt pets. with functionalities such as CRUD, Auth, integration of payment gateways (to make donations to pets), through version control with GIT/GITHUB, managed with Trello and Slack.
+Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago, Nodemailer, Auth0
+</h4>
 &nbsp;&nbsp;
 <h3> 🚀 Projects: </h3>
 <h5>Link Group Project https://frontend-rebirth.vercel.app/</h5>
