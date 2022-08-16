@@ -53,7 +53,7 @@ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, Mer
 <span >
 <a href="https://www.linkedin.com/in/enzogsanchezdeveloper/" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"> &nbsp;
 <a href="mailto:enzosanchez771@gmail.com" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
- <a href="https://wa.me/+5493855049632&text=Hi 👋🏻" ><img width="7%" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png">
+ <a href="https://wa.me/+5493855049632" ><img width="7%" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png">
 </span>
 &nbsp;&nbsp;
   <p>
