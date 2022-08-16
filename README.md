@@ -9,7 +9,17 @@ Full Stack Developer
 hello!! I'm Enzo, Full-Stack developer, committed, self-taught, creative, fellow. A person who likes to know and learn new things constantly, I am always looking for new challenges where I can grow personally and professionally.
 </h4>
 &nbsp;&nbsp;
-<h3> :star: Languages and Tools: </h3>
+<h3> 🚀 Projects: </h3>
+<p>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20landing.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screnn%20landing%20claro.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20header%20claro.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20header.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20detail.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20donation.png"></code>
+</p>
+Link to my first Group Project https://frontend-rebirth.vercel.app/
+<h3> 💻 Languages and Tools: </h3>
 
 <p>
   <code><img width="15%" height="70px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
