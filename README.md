@@ -57,7 +57,7 @@ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, Mer
 </span>
 &nbsp;&nbsp;
   <p>
-     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=enzosanchezz&label=Profile%20Views&color=6&icon=3&pretty=true" />
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=enzosanchez&label=Profile%20Views&color=1&icon=5&pretty=true" />
     </a>
   </p>
